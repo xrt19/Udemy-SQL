@@ -1,2 +1,3 @@
 # Udemy-SQL
-## tes
+
+The Complete SQL Bootcamp: Go from Zero to Hero created by Jose Portilla (https://s.id/1SdPD)
